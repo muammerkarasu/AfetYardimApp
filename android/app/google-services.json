@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "7066017258",
+    "project_id": "afetyardim-197dc",
+    "storage_bucket": "afetyardim-197dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7066017258:android:47a296338c058bdf046693",
+        "android_client_info": {
+          "package_name": "com.afetyardimapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuxJzzM0y6eb5qCGE_SGGk-wkNgCBcbc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
